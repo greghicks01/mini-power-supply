@@ -125,7 +125,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "power_pin_not_driven|1346200|546100|25b95032-7fcb-4c13-8d11-9334cc5a4603|00000000-0000-0000-0000-000000000000"
+    ],
     "meta": {
       "version": 0
     },
@@ -415,26 +417,6 @@
     [
       "d175656c-bb40-48b8-9ba3-16444d624dcf",
       ""
-    ],
-    [
-      "401bb300-5b51-4e76-9e60-142d818b95b8",
-      "Curent and Volt5"
-    ],
-    [
-      "509256ba-6857-4f5a-af3c-80f658596ec4",
-      "Curent and Volt6"
-    ],
-    [
-      "34033195-aa1c-49d2-bebb-4b6b75b54bc8",
-      "Curent and Volt7"
-    ],
-    [
-      "a6a9817e-cebf-43bb-84ae-f2cf25a20f0a",
-      "Curent and Volt8"
-    ],
-    [
-      "fd931f14-aa38-4a47-a0fd-7eae569b1d09",
-      "Curent and Volt4"
     ]
   ],
   "text_variables": {}

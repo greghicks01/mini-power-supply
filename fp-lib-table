@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name minipowersupply)(type KiCad)(uri ${KIPRJMOD}/minipowersupply.pretty)(options "")(descr ""))
+)

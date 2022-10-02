@@ -1,0 +1,11 @@
+ERC report (9/24/2022 1:31:56 PM, Encoding UTF8)
+
+***** Sheet /
+[no_connect_connected]: A pin with a “no connection” flag is connected
+    ; Severity: warning
+    @(151.13 mm, 57.15 mm): Symbol #FLG0101 [PWR_FLAG] Pin 1 [pwr, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error (excluded)
+    @(40.64 mm, 66.04 mm): Symbol #PWR02 [GNDPWR] Pin 1 [GNDPWR, Power input, Line]
+
+ ** ERC messages: 2  Errors 1  Warnings 1

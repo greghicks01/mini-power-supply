@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "minipowersupply-rescue")(type "Legacy")(uri "${KIPRJMOD}/minipowersupply-rescue.lib")(options "")(descr ""))
+)

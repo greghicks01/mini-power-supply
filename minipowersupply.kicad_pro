@@ -417,24 +417,44 @@
       ""
     ],
     [
-      "401bb300-5b51-4e76-9e60-142d818b95b8",
+      "45e649fb-11d0-484e-8f05-36a37e9b4016",
       "Curent and Volt5"
     ],
     [
-      "509256ba-6857-4f5a-af3c-80f658596ec4",
+      "9d205de5-6be7-451d-8051-e26ec50b0652",
       "Curent and Volt6"
     ],
     [
-      "34033195-aa1c-49d2-bebb-4b6b75b54bc8",
+      "6710f29f-ca2a-46ac-a457-3e6bd35c2784",
       "Curent and Volt7"
     ],
     [
-      "a6a9817e-cebf-43bb-84ae-f2cf25a20f0a",
+      "f603f830-1954-4cf1-9214-ed1b9cc75116",
+      " Measure and Mux"
+    ],
+    [
+      "6a22163c-a971-4fe8-bd18-ae410ca86466",
       "Curent and Volt8"
     ],
     [
-      "fd931f14-aa38-4a47-a0fd-7eae569b1d09",
+      "0171d92e-8d18-4439-a831-c9696203c470",
+      "Unregulated Power"
+    ],
+    [
+      "04da8333-1ee2-480f-9c82-cd475e7d9e9d",
+      "Clock and TTL"
+    ],
+    [
+      "ad7d34fc-ea53-4304-ba5f-b50b36043af6",
+      "DualAdj"
+    ],
+    [
+      "9e49a0e5-227d-4a50-a1e1-04e81c4e4cef",
       "Curent and Volt4"
+    ],
+    [
+      "e84becbb-d7bb-4f82-b4d3-8ddac9da005f",
+      "Measure and Control"
     ]
   ],
   "text_variables": {}

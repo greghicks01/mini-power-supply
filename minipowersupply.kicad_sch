@@ -236,9 +236,6 @@
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/027f02ad-0f76-49b8-85c6-28c78d5a202c"
       (reference "#FLG0114") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/90810d1a-fa6d-4606-beb4-d35f34174d80"
-      (reference "#FLG0117") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/4a6c61f6-86d0-48e8-9f10-121d4223e2db"
       (reference "#PWR04") (unit 1) (value "Earth") (footprint "")
     )
@@ -247,9 +244,6 @@
     )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/c33bf6de-47b2-4794-9ca6-1f2cc2347c58"
       (reference "#PWR06") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/e8587456-2820-4e91-b760-ebcf119fc9e9"
-      (reference "#PWR07") (unit 1) (value "Earth") (footprint "")
     )
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/63ae4e29-9900-4514-b2b2-14abb668026c"
       (reference "#PWR010") (unit 1) (value "Earth") (footprint "")
@@ -272,8 +266,8 @@
     (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/44dea572-fd0c-4768-9cf9-1f3c97f91ff8"
       (reference "#PWR0103") (unit 1) (value "+5VA") (footprint "")
     )
-    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/75968cbb-7673-45d4-bcda-93559ade4d23"
-      (reference "#PWR0104") (unit 1) (value "GNDREF") (footprint "")
+    (path "/0171d92e-8d18-4439-a831-c9696203c470/6ef6baf4-83ef-41ce-babc-62d6607bee55"
+      (reference "#PWR0105") (unit 1) (value "Earth") (footprint "")
     )
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/e18d8df6-911d-4892-87af-96bc187d73d0"
       (reference "A1") (unit 1) (value "Arduino_Nano_v2.x") (footprint "Module:Arduino_Nano")

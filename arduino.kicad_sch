@@ -965,7 +965,7 @@
   (symbol (lib_id "Amplifier_Operational:LM358") (at 100.838 39.116 90) (unit 3)
     (in_bom yes) (on_board yes)
     (uuid 4703420d-6216-46cc-a07d-4548dd7b8a80)
-    (property "Reference" "U4" (id 0) (at 102.235 39.878 90)
+    (property "Reference" "U6" (id 0) (at 102.235 39.878 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "LM358" (id 1) (at 103.505 43.18 90)

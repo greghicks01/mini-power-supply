@@ -346,7 +346,7 @@
     (pin "2" (uuid cfaf0bd3-e9bf-4fb2-837c-57d10ea196ef))
   )
 
-  (symbol (lib_id "Amplifier_Operational:LM358") (at 135.382 105.156 0) (mirror x) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:LM358") (at 135.382 105.156 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 363fdeb2-21d4-423e-8deb-9c087fce9f02)
     (property "Reference" "U6" (id 0) (at 135.382 96.3762 0))

@@ -417,24 +417,24 @@
       ""
     ],
     [
-      "45e649fb-11d0-484e-8f05-36a37e9b4016",
+      "4a2ef75f-a9f8-44de-951c-5cf27de4596e",
       "Curent and Volt5"
     ],
     [
-      "9d205de5-6be7-451d-8051-e26ec50b0652",
+      "b8bbf3ce-a44d-42ed-83f6-0adf6f7aba5f",
       "Curent and Volt6"
     ],
     [
-      "6710f29f-ca2a-46ac-a457-3e6bd35c2784",
+      "5ce8b93a-cbca-477e-a92d-146187ab8a69",
       "Curent and Volt7"
     ],
     [
       "f603f830-1954-4cf1-9214-ed1b9cc75116",
-      " Measure and Mux"
+      "Filter and Mux"
     ],
     [
-      "6a22163c-a971-4fe8-bd18-ae410ca86466",
-      "Curent and Volt8"
+      "68e4bd15-724d-46f8-8bb9-164a5e05a98b",
+      "Unity Inverter1"
     ],
     [
       "0171d92e-8d18-4439-a831-c9696203c470",
@@ -450,19 +450,19 @@
     ],
     [
       "20ca3241-b4d1-463a-9a6c-12e318f34653",
-      "Unity Inverter1"
-    ],
-    [
-      "9e49a0e5-227d-4a50-a1e1-04e81c4e4cef",
-      "Curent and Volt4"
+      "Unity Inverter"
     ],
     [
       "e84becbb-d7bb-4f82-b4d3-8ddac9da005f",
       "Measure and Control"
     ],
     [
-      "6aacadf3-d6ca-4665-951b-ba68ea33346e",
-      "Unity Inverter"
+      "9e49a0e5-227d-4a50-a1e1-04e81c4e4cef",
+      "Curent and Volt4"
+    ],
+    [
+      "b0d622a9-3316-43e0-a924-cdea4dccff2a",
+      "Curent and Volt8"
     ]
   ],
   "text_variables": {}

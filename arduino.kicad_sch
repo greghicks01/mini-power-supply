@@ -381,9 +381,6 @@
   (junction (at 89.789 41.656) (diameter 0) (color 0 0 0 0)
     (uuid 1f99228c-1171-4770-9c84-df40007fd48c)
   )
-  (junction (at 217.2716 127.4826) (diameter 0) (color 0 0 0 0)
-    (uuid 22a034b5-005c-4c3c-8de3-204b77fc27ee)
-  )
   (junction (at 237.7948 84.7598) (diameter 0) (color 0 0 0 0)
     (uuid 2523afc8-f734-441f-899c-80ccdb4444fc)
   )
@@ -506,10 +503,6 @@
   (wire (pts (xy 214.7316 54.7624) (xy 214.7316 127.4826))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 314182d1-0692-4e2f-bd55-6f1d12fb199d)
-  )
-  (wire (pts (xy 217.2716 127.7366) (xy 217.2716 127.4826))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 35a25a5c-6fed-4ef4-bb0d-e14c52f6d1cc)
   )
   (wire (pts (xy 149.5806 48.895) (xy 116.332 48.895))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -772,11 +765,6 @@
     (uuid feafbc89-3c70-4b49-9e0c-77c3039332d5)
   )
 
-  (text "| Inputs  | V |\n|  +7.8  | 4 |\n|  -7.8  | 3 |\n|   +A   | 2 |\n|   -A   | 1 |\n|   +5   | 0 |"
-    (at 58.166 160.4772 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 46be15d2-ec1b-47da-8185-34c6760715c8)
-  )
   (text "Dual Unreg = +/- 7.8V DC\n\nTTL CK = +5V 100Hz PRT 50% Duty Cyle\n\nDual Adj REg = +- 1.7 to 7V DC"
     (at 55.88 63.5 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))

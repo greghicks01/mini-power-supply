@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.7,
-          "width": 1.7
+          "drill": 0.0,
+          "height": 0.95,
+          "width": 2.8
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -463,6 +463,26 @@
     [
       "b0d622a9-3316-43e0-a924-cdea4dccff2a",
       "Curent and Volt8"
+    ],
+    [
+      "cfba83c0-0b8a-4bed-af21-d4080bce450b",
+      "VDiv1"
+    ],
+    [
+      "24b44ca2-fa33-4371-a693-8d6e56c8c9de",
+      "VDiv"
+    ],
+    [
+      "caa3d348-37f9-4641-a606-cbe407ec5f08",
+      "VDiv2"
+    ],
+    [
+      "2f0409b5-1b26-498a-8bfa-e87922f9144d",
+      "VDiv3"
+    ],
+    [
+      "3988ef76-6aac-4db6-bbd3-52cd277f29c7",
+      "VDiv4"
     ]
   ],
   "text_variables": {}

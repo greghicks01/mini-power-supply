@@ -704,7 +704,7 @@
       (reference "U4") (unit 3) (value "LM358") (footprint "Package_TO_SOT_SMD:SOT-223-8")
     )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/6700d960-a0a4-44c3-9129-9f7b03f42f8b"
-      (reference "U5") (unit 1) (value "74HC4051") (footprint "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm")
+      (reference "U5") (unit 1) (value "74HC4051") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/c77234a0-0f12-42e4-8d26-b4d462521226"
       (reference "U6") (unit 1) (value "LM7805_TO220") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
@@ -722,7 +722,7 @@
       (reference "U10") (unit 1) (value "ACS70331EOLCTR-2P5U3") (footprint "ACS70331EOLCTR-2P5U3:SOIC127P600X175-8N")
     )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/7168f25c-472b-4b96-98cf-250874d0df59"
-      (reference "U11") (unit 1) (value "74HC4051") (footprint "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm")
+      (reference "U11") (unit 1) (value "74HC4051") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
   )
 )

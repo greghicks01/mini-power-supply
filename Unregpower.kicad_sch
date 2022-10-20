@@ -580,7 +580,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid a89544ea-c041-43dc-b228-8c6bffcb25a1)
   )
-  (polyline (pts (xy 101.346 66.675) (xy 101.346 119.507))
+  (polyline (pts (xy 101.346 66.675) (xy 101.219 129.54))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid b4f1135a-fab5-4131-9c07-1b08d6706c7a)
   )
@@ -622,7 +622,7 @@
     (uuid ec5fa5da-b220-4b25-ba37-8d0ef8cbff23)
   )
 
-  (image (at 131.064 108.585) (scale 0.612075)
+  (image (at 128.143 114.2492) (scale 0.612075)
     (uuid 59a0b268-5402-476b-9f27-100631d9119c)
     (data
       iVBORw0KGgoAAAANSUhEUgAAA40AAAIhCAIAAABln8hPAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA

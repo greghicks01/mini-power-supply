@@ -239,7 +239,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 511daabb-94ea-40ee-8eae-2c7aa9353159)
     )
-    (pin "A[0..2]" output (at 213.233 122.682 90)
+    (pin "A[0..5]" output (at 213.233 122.682 90)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 004911a5-3a2b-47a9-b95a-8c1f383943e4)
     )
@@ -267,7 +267,7 @@
     (property "Sheet file" "arduino.kicad_sch" (id 1) (at 222.1996 114.046 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (pin "A[0..2]" input (at 213.233 114.808 270)
+    (pin "A[0..5]" input (at 213.233 114.808 270)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid f3c11af4-c358-45ce-9362-13ab8f2ccc24)
     )
@@ -379,6 +379,15 @@
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/3988ef76-6aac-4db6-bbd3-52cd277f29c7/fc65ecc7-9eca-43dc-b5b3-5257c9a07697"
       (reference "#PWR013") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/68bac005-c738-4ad4-aaaf-99ec32852977"
+      (reference "#PWR014") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/d30398c4-56ff-456f-8bcd-6abe3278f157"
+      (reference "#PWR015") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/6de4e81c-7297-48a2-9c4d-71a45ddded8b"
+      (reference "#PWR016") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/245637c0-5a2f-45d2-bb02-961552ae7129"
       (reference "#PWR017") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -399,6 +408,9 @@
     )
     (path "/0171d92e-8d18-4439-a831-c9696203c470/17ebc87b-603e-492f-99fd-c9a809e53c31"
       (reference "#PWR023") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/b750a0a8-968b-4922-95d0-6009d99584f8"
+      (reference "#PWR024") (unit 1) (value "GNDREF") (footprint "")
     )
     (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/76494575-5efa-4cbe-baf9-9ba6187bfe0a"
       (reference "#PWR025") (unit 1) (value "GNDREF") (footprint "")
@@ -421,9 +433,6 @@
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/3e890b59-4104-41cb-abbc-81ed0c387824"
       (reference "#PWR031") (unit 1) (value "GNDREF") (footprint "")
     )
-    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/e9ba396a-a163-47a4-ab75-2eecdc16696a"
-      (reference "#PWR032") (unit 1) (value "GNDREF") (footprint "")
-    )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/9e49a0e5-227d-4a50-a1e1-04e81c4e4cef/4496cfa9-1f5e-49b8-b439-1895b1d3b362"
       (reference "#PWR033") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -441,6 +450,9 @@
     )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/46e3646f-2035-443f-b3ff-8c4978592cde"
       (reference "#PWR0102") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/bba79f71-054d-48e3-a6f8-578855d54f6b"
+      (reference "#PWR0103") (unit 1) (value "GNDREF") (footprint "")
     )
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/e18d8df6-911d-4892-87af-96bc187d73d0"
       (reference "A1") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Module:Arduino_Nano")
@@ -483,6 +495,15 @@
     )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/3988ef76-6aac-4db6-bbd3-52cd277f29c7/4447f1cf-cd73-40eb-a612-0f0d9b1a7f57"
       (reference "C13") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/5b834e9d-9412-4b32-a2e2-49131148b65a"
+      (reference "C14") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/dbceb944-7f89-45f0-bf3c-265591aa50ed"
+      (reference "C15") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/e37b5d37-16fb-493d-8379-6c8eb40ea48b"
+      (reference "C16") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/e02e7160-6e58-4844-8bf5-047dcc9f99ea"
       (reference "C17") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -535,6 +556,9 @@
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/9e49a0e5-227d-4a50-a1e1-04e81c4e4cef/395918f6-a4a8-4e4a-b0f3-550a533d19ef"
       (reference "C33") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/4323e4f2-03fa-4621-8b6b-1af0874ec8df"
+      (reference "C34") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/b0d622a9-3316-43e0-a924-cdea4dccff2a/870f3584-8a2b-410b-bc98-e5cb95c118a7"
       (reference "C35") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -571,9 +595,6 @@
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/61953713-f268-4bc3-9b9d-85babbf33d5e"
       (reference "D9") (unit 1) (value "S1K-13-F") (footprint "Diode_SMD:D_SMA")
     )
-    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/75909ddd-26b9-4e79-807a-365005e91861"
-      (reference "DS1") (unit 1) (value "OLED-128O064D") (footprint "Display:OLED-128O064D")
-    )
     (path "/0171d92e-8d18-4439-a831-c9696203c470/b70ffcfb-e42e-4e3a-8bd2-47d191d0fca1"
       (reference "F1") (unit 1) (value "Fuse") (footprint "Fuse:Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed")
     )
@@ -603,6 +624,9 @@
     )
     (path "/ad7d34fc-ea53-4304-ba5f-b50b36043af6/17ad1fd9-77b2-4910-8df3-1d098cc86576"
       (reference "J9") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/772055d4-fd88-4274-bb55-5b313f2a1265"
+      (reference "J10") (unit 1) (value "Conn_01x30_Male") (footprint "WE SMD Side 30 Pin:687130149022")
     )
     (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/66b966a8-357f-4588-9d64-e40b9b2d82bc"
       (reference "Q1") (unit 1) (value "BC817") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -667,11 +691,32 @@
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/3988ef76-6aac-4db6-bbd3-52cd277f29c7/001539a8-5222-40de-938f-096dcb066e87"
       (reference "R20") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/a6e03dd3-87e1-4375-af43-bb3d3f653955"
+      (reference "R21") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/3ff46b3a-1ebb-47b5-96b8-6c72be309816"
+      (reference "R22") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/02d68b5e-d191-47cb-b7c0-e0348d6e8e6a"
+      (reference "R23") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/6a841186-6643-4888-8f07-48585c95e9fc"
+      (reference "R24") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/dcf798aa-d663-43c4-9ba1-8bde70a5592e"
+      (reference "R25") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/e6667ba4-7e55-47df-9ea6-3ab763c8ff2f"
+      (reference "R26") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/ad7d34fc-ea53-4304-ba5f-b50b36043af6/ffb63565-cbf3-4724-bc54-d6a7b5aa1900"
       (reference "RV1") (unit 1) (value "5k") (footprint "")
     )
     (path "/ad7d34fc-ea53-4304-ba5f-b50b36043af6/8e9e6544-5995-4199-9871-fc0445b58d1e"
       (reference "RV2") (unit 1) (value "5k") (footprint "")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/23311901-7468-4bf4-aafc-bbb1c10a97fd"
+      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm")
     )
     (path "/0171d92e-8d18-4439-a831-c9696203c470/6f0fe44a-f55d-46f7-974a-ed9861cce930"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm")

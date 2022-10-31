@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.95,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 2.0,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -430,7 +430,7 @@
     ],
     [
       "f603f830-1954-4cf1-9214-ed1b9cc75116",
-      "I V Sensor and Mux"
+      "I V Sensor, Mux and output"
     ],
     [
       "68e4bd15-724d-46f8-8bb9-164a5e05a98b",

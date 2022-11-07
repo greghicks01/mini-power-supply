@@ -418,15 +418,15 @@
     ],
     [
       "4a2ef75f-a9f8-44de-951c-5cf27de4596e",
-      "Curent and Volt5"
+      "U- Current"
     ],
     [
       "b8bbf3ce-a44d-42ed-83f6-0adf6f7aba5f",
-      "Curent and Volt6"
+      "A+ Current"
     ],
     [
       "5ce8b93a-cbca-477e-a92d-146187ab8a69",
-      "Curent and Volt7"
+      "A- Current"
     ],
     [
       "f603f830-1954-4cf1-9214-ed1b9cc75116",
@@ -434,7 +434,7 @@
     ],
     [
       "68e4bd15-724d-46f8-8bb9-164a5e05a98b",
-      "Unity Inverter1"
+      "A- Unity Inverter"
     ],
     [
       "0171d92e-8d18-4439-a831-c9696203c470",
@@ -450,39 +450,39 @@
     ],
     [
       "20ca3241-b4d1-463a-9a6c-12e318f34653",
-      "Unity Inverter"
+      "U- Unity Inverter"
     ],
     [
       "e84becbb-d7bb-4f82-b4d3-8ddac9da005f",
-      "Measure and Display"
+      "Measure"
     ],
     [
       "9e49a0e5-227d-4a50-a1e1-04e81c4e4cef",
-      "Curent and Volt4"
+      "U+ Current"
     ],
     [
       "b0d622a9-3316-43e0-a924-cdea4dccff2a",
-      "Curent and Volt8"
+      "5 Current"
     ],
     [
       "cfba83c0-0b8a-4bed-af21-d4080bce450b",
-      "VDiv1"
+      "U- V Div"
     ],
     [
       "24b44ca2-fa33-4371-a693-8d6e56c8c9de",
-      "VDiv"
+      "U+ V Div"
     ],
     [
       "caa3d348-37f9-4641-a606-cbe407ec5f08",
-      "VDiv2"
+      "A+ V Div"
     ],
     [
       "2f0409b5-1b26-498a-8bfa-e87922f9144d",
-      "VDiv3"
+      "A- V Div"
     ],
     [
       "3988ef76-6aac-4db6-bbd3-52cd277f29c7",
-      "VDiv4"
+      "5 V Div"
     ]
   ],
   "text_variables": {}

@@ -498,11 +498,56 @@
     (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/5835aee7-b8c8-4a02-96a1-da1f84820cc2"
       (reference "D8") (unit 1) (value "S1K-13-F") (footprint "Diode_SMD:D_SMA")
     )
-    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/61953713-f268-4bc3-9b9d-85babbf33d5e"
-      (reference "D9") (unit 1) (value "S1K-13-F") (footprint "Diode_SMD:D_SMA")
-    )
     (path "/0171d92e-8d18-4439-a831-c9696203c470/b70ffcfb-e42e-4e3a-8bd2-47d191d0fca1"
       (reference "F1") (unit 1) (value "Fuse") (footprint "Fuse:Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed")
+    )
+    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/0e6e343c-2deb-4ef0-971f-753faa8e61de"
+      (reference "FB1") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/8d795439-9026-4bd3-9f98-60646199fd22"
+      (reference "FB2") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/0083e0e4-5878-409e-9ae5-ad60b3bf53ae"
+      (reference "FB3") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/ad7d34fc-ea53-4304-ba5f-b50b36043af6/aac2094f-4354-4353-b932-f5accf9b20fd"
+      (reference "FB4") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/ad7d34fc-ea53-4304-ba5f-b50b36043af6/a1c907e6-1c54-4d2b-bb44-56487df1e042"
+      (reference "FB5") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/4d6a8c9a-c6e4-4d72-b2b8-ff89af40f7b5"
+      (reference "FB6") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/35db5137-2a74-457b-b0c5-cae72b4b00ac"
+      (reference "FB7") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/8ae902a2-5ed6-473f-a440-ae7242d00e12"
+      (reference "FB8") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/4596031e-d9af-47aa-b73a-7c61db363c76"
+      (reference "FB9") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/c8963347-9238-4f48-a528-34410ad91253"
+      (reference "FB10") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/2e38df4b-ed15-4d8f-b3f2-ede60ab9bd57"
+      (reference "FB11") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/f131f031-72ae-4d81-bf7b-fe596040d363"
+      (reference "FB12") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/0fe410cf-f2bc-4d76-925b-0610f5e46e12"
+      (reference "FB13") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/515f1014-a4a9-4444-ace0-7033b0431362"
+      (reference "FB14") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/a032c61a-e0a9-4561-8834-18fd49e7564c"
+      (reference "FB15") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/8b3c7988-5c80-4b31-9d0c-5d85e71bb129"
+      (reference "FB16") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/24b44ca2-fa33-4371-a693-8d6e56c8c9de/fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22"
       (reference "J1") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
@@ -641,9 +686,6 @@
     )
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/f88c943e-7cd0-47e9-b2ed-a1ad8b104071"
       (reference "R35") (unit 1) (value "10k 0.01%") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/0ce128b1-7e9f-438a-a80d-9d1507751d2d"
-      (reference "R36") (unit 1) (value "10k 0.01%") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ad7d34fc-ea53-4304-ba5f-b50b36043af6/ffb63565-cbf3-4724-bc54-d6a7b5aa1900"
       (reference "RV1") (unit 1) (value "5k") (footprint "")

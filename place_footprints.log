@@ -1,5 +1,5 @@
-10-12 17:49:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'win32'
-10-12 17:49:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
-10-12 17:49:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.7)
-10-12 17:49:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
-10-12 17:49:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x0000026F6F89B550>
+11-20 16:05:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'win32'
+11-20 16:05:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+11-20 16:05:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.7)
+11-20 16:05:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
+11-20 16:05:33 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x000002351C2CB550>

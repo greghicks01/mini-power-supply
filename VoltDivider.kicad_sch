@@ -393,7 +393,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 142.24 72.644 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22)
-    (property "Reference" "J4" (id 0) (at 144.0434 72.6439 0)
+    (property "Reference" "J6" (id 0) (at 143.51 72.6439 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x01_Female" (id 1) (at 142.9512 74.3462 0)

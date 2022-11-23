@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.508
+          "45_degree_only": true,
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [],
@@ -418,11 +418,11 @@
     ],
     [
       "4a2ef75f-a9f8-44de-951c-5cf27de4596e",
-      "U- Current"
+      "A+ Current"
     ],
     [
       "b8bbf3ce-a44d-42ed-83f6-0adf6f7aba5f",
-      "A+ Current"
+      "5 Current"
     ],
     [
       "5ce8b93a-cbca-477e-a92d-146187ab8a69",
@@ -462,11 +462,11 @@
     ],
     [
       "b0d622a9-3316-43e0-a924-cdea4dccff2a",
-      "5 Current"
+      "U- Current"
     ],
     [
       "cfba83c0-0b8a-4bed-af21-d4080bce450b",
-      "U- V Div"
+      "A+ V Div"
     ],
     [
       "24b44ca2-fa33-4371-a693-8d6e56c8c9de",
@@ -474,7 +474,7 @@
     ],
     [
       "caa3d348-37f9-4641-a606-cbe407ec5f08",
-      "A+ V Div"
+      "5 V Div"
     ],
     [
       "2f0409b5-1b26-498a-8bfa-e87922f9144d",
@@ -482,7 +482,7 @@
     ],
     [
       "3988ef76-6aac-4db6-bbd3-52cd277f29c7",
-      "5 V Div"
+      "U- V Div"
     ]
   ],
   "text_variables": {}

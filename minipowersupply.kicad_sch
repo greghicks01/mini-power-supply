@@ -357,6 +357,9 @@
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/46e3646f-2035-443f-b3ff-8c4978592cde"
       (reference "#PWR0102") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/73e3e5df-e706-406d-9051-f107f536fd1d"
+      (reference "#PWR0103") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/f06859c6-a77e-4185-a978-826707d85879"
       (reference "#PWR0104") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -549,6 +552,9 @@
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/8b3c7988-5c80-4b31-9d0c-5d85e71bb129"
       (reference "FB16") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
+    (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/2f457fee-5457-4eaf-b523-f278034ea936"
+      (reference "FB17") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0603_1608Metric")
+    )
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/24b44ca2-fa33-4371-a693-8d6e56c8c9de/fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22"
       (reference "J1") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
@@ -558,16 +564,16 @@
     (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/caa3d348-37f9-4641-a606-cbe407ec5f08/fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22"
       (reference "J3") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
-    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/2f0409b5-1b26-498a-8bfa-e87922f9144d/fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22"
+    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/9fb92e76-994b-44d8-abcf-5ad5b317b015"
       (reference "J4") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
-    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/3988ef76-6aac-4db6-bbd3-52cd277f29c7/fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22"
+    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/1ba621d9-fea8-4e98-84ac-4e7522b38230"
       (reference "J5") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
-    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/9fb92e76-994b-44d8-abcf-5ad5b317b015"
+    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/2f0409b5-1b26-498a-8bfa-e87922f9144d/fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22"
       (reference "J6") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
-    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/1ba621d9-fea8-4e98-84ac-4e7522b38230"
+    (path "/f603f830-1954-4cf1-9214-ed1b9cc75116/3988ef76-6aac-4db6-bbd3-52cd277f29c7/fb2d6f1a-0cd4-4714-b0bd-d2d261c0da22"
       (reference "J7") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
     (path "/ad7d34fc-ea53-4304-ba5f-b50b36043af6/37c9196e-5f9d-4fe7-944a-73ad891e5dc3"

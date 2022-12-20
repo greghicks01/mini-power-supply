@@ -646,7 +646,7 @@
       (reference "J9") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/e84becbb-d7bb-4f82-b4d3-8ddac9da005f/4d57ab8f-ef9b-4ebc-addf-e4f4b790cea8"
-      (reference "J10") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (reference "J10") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/04da8333-1ee2-480f-9c82-cd475e7d9e9d/66b966a8-357f-4588-9d64-e40b9b2d82bc"
       (reference "Q1") (unit 1) (value "BC817") (footprint "Package_TO_SOT_SMD:SOT-23")
